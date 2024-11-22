@@ -245,7 +245,7 @@ def get_message_type(msg: pyrogram.types.messages_and_media.message.Message):
 	except: pass
 
 
-USAGE = """**FOR PUBLIC CHATS**
+USAGE = /help,"""**FOR PUBLIC CHATS**
 
 **__just send post/s link__**
 
